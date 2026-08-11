@@ -12,13 +12,13 @@ The dashboard transforms raw grocery sales data into meaningful business insight
 
 ## 🎯 Project Objectives
 
-- Analyze overall sales performance
-- Compare sales across different outlet types
-- Understand the impact of outlet size and location on sales
-- Analyze sales by item type and fat content
-- Track outlet establishment trends
-- Compare average sales and customer ratings
-- Identify high-performing outlet segments
+- Analyze overall sales performance using key KPIs
+- Compare sales performance across different outlet types
+- Understand the relationship between outlet size, location, and sales
+- Analyze sales performance by item type and fat content
+- Evaluate sales trends based on outlet establishment
+- Compare average sales, number of items, and customer ratings
+- Identify high-performing outlet segments and areas for optimization
 
 ## 📈 Key KPIs
 
@@ -96,4 +96,4 @@ Blinkit-Sales-Dashboard/
 
 **Somya Singhal**
 
-Data Analyst | Power BI | SQL | Excel
+Aspiring Data Analyst | Power BI | SQL | Excel | Data Visualization
